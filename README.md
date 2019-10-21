@@ -14,8 +14,11 @@ A calculator with the square pipes weight.
 ### Example for use in command line:
 
 > user path> python squarepipe.py
+
 > Please input the type for the pipe: 40x40x3
+
 > Please input the hight for the pipe: 23
+
 > wight =  0.08016419999999999
   
 #### enjoy.
